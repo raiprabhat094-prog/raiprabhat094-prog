@@ -1,8 +1,7 @@
-Here’s your complete polished GitHub Profile README code with centered stats and a professional layout:
-
 # 💫 About Me:
 
 Hi, I'm Prabhat Rai, a first-year B.Tech student and passionate tech enthusiast who loves turning futuristic ideas into real-world solutions through technology.
+
 I’m currently focused on mastering Web Development with the MERN Stack and strengthening my problem-solving skills through DSA in C++.
 
 I enjoy exploring AI tools, building innovative projects, and working on ideas that can make student life smarter and more productive. Apart from tech, I’m also deeply interested in fitness, personality development, and self-growth.
@@ -11,56 +10,68 @@ I enjoy exploring AI tools, building innovative projects, and working on ideas t
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/prabhat-rai-314043355)
+<p align="center">
+<a href="https://linkedin.com/in/prabhat-rai-314043355">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 # 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+</p>
 
 ---
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=raiprabhat094-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=raiprabhat094-prog&show_icons=true&theme=tokyonight"/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raiprabhat094-prog&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=raiprabhat094-prog&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiprabhat094-prog&layout=compact&theme=tokyonight"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raiprabhat094-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
+## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=raiprabhat094-prog&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=raiprabhat094-prog&theme=tokyonight&row=1&column=6"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+### ✍️ Random Dev Quote
 
-[![](https://komarev.com/ghpvc/?username=raiprabhat094-prog\&icon=0\&color=0)](https://visitcount.itsvg.in)
+<p align="center">
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=raiprabhat094-prog&icon=0&color=6"/>
+
+</p>
