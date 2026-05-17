@@ -13,21 +13,21 @@ Hi, I'm Prabhat Rai, a first-year B.Tech student and passionate tech enthusiast 
 # 📊 GitHub Stats:
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=raiprabhat094-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api?username=raiprabhat094-prog\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=raiprabhat094-prog&theme=dark&hide_border=false" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=raiprabhat094-prog\&theme=dark\&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raiprabhat094-prog\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raiprabhat094-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=raiprabhat094-prog\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=raiprabhat094-prog&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
