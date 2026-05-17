@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 Hi, I'm **Prabhat Rai**, a first-year B.Tech student and passionate tech enthusiast who loves turning futuristic ideas into real-world solutions through technology.
 
@@ -10,17 +10,17 @@ Hi, I'm **Prabhat Rai**, a first-year B.Tech student and passionate tech enthusi
 
 ---
 
-# 🌐 Socials:
+# 🌐 Socials
 
 <p align="center">
-<a href="https://linkedin.com/in/prabhat-rai-314043355" target="_blank">
+<a href="https://linkedin.com/in/prabhat-rai-314043355">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -46,46 +46,26 @@ Hi, I'm **Prabhat Rai**, a first-year B.Tech student and passionate tech enthusi
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raiprabhat094-prog&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-<img src="https://streak-stats.demolab.com?user=raiprabhat094-prog&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raiprabhat094-prog&show_icons=true&theme=radical"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiprabhat094-prog&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raiprabhat094-prog&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiprabhat094-prog&layout=compact&theme=radical"/>
 
 </p>
 
 ---
 
-# ✍️ Random Dev Quote
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=raiprabhat094-prog&icon=5&color=6"/>
+<img src="https://komarev.com/ghpvc/?username=raiprabhat094-prog&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
