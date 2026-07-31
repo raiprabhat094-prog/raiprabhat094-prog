@@ -357,7 +357,7 @@ Current Focus:
 
 </a>
 
-<a href="mailto:your_email@example.com">
+<a href="mailto:raiprabhat094@gmail.com">
 
 <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
