@@ -1,6 +1,4 @@
-<!-- ========================= -->
-<!--      PRABHAT RAI         -->
-<!-- ========================= -->
+
 
 <h1 align="center">Hi 👋, I'm Prabhat Rai</h1>
 
@@ -34,7 +32,7 @@
 
 💻 Passionate about Full Stack Web Development
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+🤖 Exploring Artificial Intelligence 
 
 🌱 Currently learning
 
@@ -88,7 +86,7 @@
 
 </p>
 
----
+<br>
 
 # 🏅 Coding Profiles
 
@@ -108,6 +106,8 @@
 
 </p>
 
+<br>
+
 # 💻 Tech Stack
 
 <p align="center">
@@ -116,7 +116,7 @@
 
 </p>
 
----
+<br>
 
 # 🚀 Featured Projects
 
@@ -202,27 +202,7 @@ A food redistribution platform connecting restaurants, NGOs and volunteers to re
 
 </div>
 
----
-
-# 📌 Repository Highlights
-
-<div align="center">
-
-<a href="https://github.com/raiprabhat094-prog/mediLead">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raiprabhat094-prog&repo=mediLead&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/raiprabhat094-prog/SwiftCart">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raiprabhat094-prog&repo=SwiftCart&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
----
+<br>
 
 # 📚 Currently Learning
 
@@ -238,7 +218,7 @@ A food redistribution platform connecting restaurants, NGOs and volunteers to re
 
 </div>
 
----
+<br>
 
 # 📫 Contact Me
 
