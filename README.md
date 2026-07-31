@@ -1,151 +1,240 @@
+
+
 <h1 align="center">Hi 👋, I'm Prabhat Rai</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | Problem Solver | CSE Undergraduate
+🚀 Full Stack Developer | AI Enthusiast | MERN Stack Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Hackathon+Explorer;Building+Projects+That+Solve+Real+Problems" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Hackathon+Explorer;Always+Learning+New+Technologies" />
+
+</p>
+
+<p align="center">
+
+<a href="https://komarev.com/ghpvc/?username=raiprabhat094-prog">
+<img src="https://komarev.com/ghpvc/?username=raiprabhat094-prog&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Second-Year B.Tech CSE Student
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-💻 Passionate about Full Stack Web Development
+🎓 Second-Year B.Tech Computer Science Engineering Student
+
+💻 Passionate about Full Stack Development
 
 🤖 Exploring Artificial Intelligence & Machine Learning
 
-🌱 Currently learning
+🌱 Currently Learning
 
 - MERN Stack
+- React.js
 - Python
 - Data Structures & Algorithms
 - AI Integrations
-- REST APIs
 
-🚀 Love building innovative products that solve real-world problems.
-
-💡 Interested in
+🚀 Interested In
 
 - Artificial Intelligence
-- Web Development
+- Full Stack Development
 - Open Source
-- Hackathons
-- UI/UX
+- Smart India Hackathon
+- UI/UX Design
 
 ⚡ Fun Fact
 
-> I enjoy converting futuristic ideas into practical software solutions.
+> "I love turning innovative ideas into real-world software."
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/prabhat-rai-314043355">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="https://github.com/raiprabhat094-prog">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+<a href="https://linkedin.com/in/prabhat-rai-314043355">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://leetcode.com/u/Prabhat14112006/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+<a href="https://www.codechef.com/users/prabhat_r_1411">
+
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,javascript,react,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma&perline=6"/>
 
----
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+</p>
 
 ---
 
-### Backend
+# 🚀 Current Focus
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+```text
+✔ MERN Stack
+
+✔ AI Projects
+
+✔ Smart India Hackathon
+
+✔ DSA
+
+✔ Open Source
+
+✔ Software Development
+```
 
 ---
 
-### Database
+# 🏅 Coding Profiles
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 💛 LeetCode | https://leetcode.com/u/Prabhat14112006/ |
+| 🤎 CodeChef | https://www.codechef.com/users/prabhat_r_1411 |
+
+</div>
 
 ---
 
-### Tools
+# ⚡ Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva)
+<table>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<br>
+
+React
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<br>
+
+Node.js
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<br>
+
+Express
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<br>
+
+MongoDB
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br>
+
+Python
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<br>
+
+C++
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🩺 MedLead
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🩺 MedLead | AI-powered healthcare platform | React, JavaScript |
+| 🛒 SwiftCart | Smart shopping & billing solution | MERN |
+| 🍽 EcoEats | Food redistribution platform | Firebase, Maps API |
 
-AI-powered Healthcare Platform
-
-- React
-- JavaScript
-- Responsive UI
-- Modern Healthcare Dashboard
-
----
-
-## 🛒 SwiftCart
-
-Smart Shopping & Billing System
-
-- QR Based Billing
-- Digital Payments
-- Queue Reduction
-
----
-
-## 🍽 EcoEats
-
-Hyperlocal Food Redistribution Platform
-
-- Google Maps
-- Firebase
-- NGO Integration
-- Food Waste Reduction
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raiprabhat094-prog&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raiprabhat094-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiprabhat094-prog&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiprabhat094-prog&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=raiprabhat094-prog&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=raiprabhat094-prog&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raiprabhat094-prog&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -154,43 +243,287 @@ Hyperlocal Food Redistribution Platform
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raiprabhat094-prog&theme=tokyonight&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raiprabhat094-prog&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🧠 LeetCode Statistics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raiprabhat094-prog&theme=tokyo-night"/>
+<img src="https://leetcard.jacoblin.cool/Prabhat14112006?theme=dark&font=Poppins&ext=contest"/>
 
 </p>
+
+---
+
+# 📌 What I'm Working On
+
+```yaml
+Current Focus:
+  - 🚀 Smart India Hackathon
+  - 🌐 MERN Stack
+  - 🤖 Artificial Intelligence
+  - 📚 Data Structures & Algorithms
+  - 💼 Building Portfolio Projects
+```
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Crack Smart India Hackathon
-- 🌟 Build AI-powered Full Stack Projects
-- 💻 Contribute to Open Source
+- 🎯 Solve 500+ LeetCode Problems
+- 🚀 Win Smart India Hackathon
+- 💻 Build 10+ Full Stack Projects
+- 🌱 Contribute to Open Source
 - 🏆 Secure a Software Development Internship
-- 📚 Master MERN Stack
 - 🤖 Learn Machine Learning & Generative AI
 
 ---
 
-# 📫 Profile Views
+# 📚 Currently Learning
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=raiprabhat094-prog&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-102230?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting! If you like my work, consider giving a ⭐ to my repositories.
-</h3>
+# 💡 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Note:** This animation will appear after enabling the GitHub Action in Part 3.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/raiprabhat094-prog/raiprabhat094-prog/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+<a href="https://github.com/raiprabhat094-prog?tab=repositories">
+
+<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-yellow?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### 🚀 "Code • Learn • Build • Repeat"
+
+### 💙 Happy Coding!
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://github.com/raiprabhat094-prog">
+
+<img src="https://img.shields.io/badge/View%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+<a href="mailto:your_email@example.com">
+
+<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/prabhat-rai-314043355">
+
+<img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/raiprabhat094-prog/mediLead">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=raiprabhat094-prog&repo=mediLead&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/raiprabhat094-prog/SwiftCart">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=raiprabhat094-prog&repo=SwiftCart&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/raiprabhat094-prog">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=raiprabhat094-prog&repo=EcoEats&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+---
+
+# 📷 Project Showcase
+
+| Project | Preview |
+|---------|---------|
+| 🩺 MedLead | Coming Soon |
+| 🛒 SwiftCart | Coming Soon |
+| 🍽 EcoEats | Coming Soon |
+
+---
+
+# 💼 Open for
+
+✔ Software Development Internship
+
+✔ Web Development Projects
+
+✔ Open Source Collaboration
+
+✔ AI Projects
+
+✔ Hackathons
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I love solving real-world problems with code.
+- 🚀 I enjoy participating in hackathons.
+- 🌱 Learning something new every day.
+- ☕ Coffee + Coding = Productivity.
+
+---
+
+# 📫 Reach Me
+
+📧 **your_email@example.com**
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+💻 GitHub
+
+---
+
+# 🐍 Snake Animation Setup
+
+Create this file:
+
+.github/workflows/snake.yml
+
+```
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: raiprabhat094-prog
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# 📌 Profile Checklist
+
+✅ GitHub Stats
+
+✅ Streak Stats
+
+✅ LeetCode Card
+
+✅ GitHub Trophies
+
+✅ Contribution Graph
+
+✅ Skill Icons
+
+✅ Typing Animation
+
+✅ Visitor Counter
+
+✅ Coding Profiles
+
+✅ Featured Projects
+
+✅ Snake Animation
+
+✅ Professional Footer
+
+---
+
+<div align="center">
+
+## ⭐ Thank You for Visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+</div>
