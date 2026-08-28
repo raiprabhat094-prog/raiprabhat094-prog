@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Open+Source+Learner;Hackathon+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Full+Stack+Developer;Open+Source+Learner;Hackathon+Explorer" />
 </p>
 
 <p align="center">
@@ -100,7 +100,6 @@
 
 ---
 
-### 📊 Stats & Activity
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raiprabhat094-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
