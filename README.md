@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Hackathon+Explorer;Full+Stack+Developer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Hackathon+Explorer;Open+Source+Learner;Computer+Science+Undergrad" />
 </p>
 
 <p align="center">
@@ -23,8 +23,9 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 **B.Tech CSE Student** passionate about Full Stack Web Development and Artificial Intelligence.
+🎓 I'm a Computer Science Engineering student focused on building a solid foundation in web development, programming logic, and core computer science concepts.
 
+- 🎓 **Education:** B.Tech in Computer Science & Engineering
 - 🌱 **Currently Learning:** MERN Stack, Python, DSA, Data Visualisation
 - 🏆 **Interests:** AI, Open Source, UI/UX, Hackathons
 - ⚡ **Fun Fact:** I love building software that solves real-world problems.
@@ -98,17 +99,23 @@
 
 </div>
 
+---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raiprabhat094-prog&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🎯 2026 Goals
 
 - 🚀 Build impactful Full Stack + AI projects
-- 🏆 Perform well in Smart India Hackathon
-- 💼 Secure a Software Development Internship
-- 🌱 Contribute actively to Open Source
-
+- 🚀 Complete 3 full-stack MERN practice applications
+- 🧩 Strengthen DSA problem-solving in C++ / Python
+- 🏆 Participate in local/online hackathons
+- 🌱 Make first open-source contributions
 ---
 
 <div align="center">
