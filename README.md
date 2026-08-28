@@ -25,7 +25,7 @@
 
 🎓 **B.Tech CSE Student** passionate about Full Stack Web Development and Artificial Intelligence.
 
-- 🌱 **Currently Learning:** MERN Stack, Python, DSA, System Design
+- 🌱 **Currently Learning:** MERN Stack, Python, DSA, Data Visualisation
 - 🏆 **Interests:** AI, Open Source, UI/UX, Hackathons
 - ⚡ **Fun Fact:** I love building software that solves real-world problems.
 
