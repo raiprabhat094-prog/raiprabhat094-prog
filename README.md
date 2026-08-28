@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhat Rai</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | MERN Stack Learner
+🚀 Problem Solver | Tech Enthusiast | MERN Stack Learner
 </h3>
 
 <p align="center">
