@@ -31,7 +31,7 @@
 
 ---
 
-### 🌐 Connect & Coding Profiles
+### 🌐 Connect & Profiles
 
 <p align="left">
   <a href="https://linkedin.com/in/prabhat-rai-314043355">
@@ -42,9 +42,6 @@
   </a>
   <a href="mailto:raiprabhat094@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Prabhat14112006/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/prabhat_r_1411">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
@@ -108,10 +105,6 @@
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raiprabhat094-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiprabhat094-prog&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prabhat14112006?theme=dark&font=Poppins&ext=contest"/>
 </p>
 
 ---
